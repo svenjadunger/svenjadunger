@@ -34,7 +34,7 @@ I love learning new languages as they enable me to communicate with a more diver
 
 ### 🎓 Web Development Bootcamp
 
-- **Institution:** Code Academy
+- **Institution:** [Code Academy] (https://www.codecademy.com/)
 - **Completion:** [March, 2024]
 
 ### 📚 Upcoming Studies: Bachelor of Science in Business Informatics
