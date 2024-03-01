@@ -1,14 +1,15 @@
 # Hello, I'm Svenja 👋
 
 ## About Me
+
 I'm on my way to becoming a web developer, almost done with a web development bootcamp. Soon, I'll start studying Business Informatics to learn more about how technology and business work together.
 
 ## Languages
+
 - 🇩🇪 **German:** Native speaker
 - 🇬🇧 **English:** Fluent
 - 🇪🇸 **Spanish:** Currently learning
 - 🇦🇪 **Arabic:** Currently learning
-
 
 I love learning new languages as they enable me to communicate with a more diverse group of people and understand different cultures on a deeper level.
 
@@ -26,24 +27,20 @@ I love learning new languages as they enable me to communicate with a more diver
 - Netlify
 - Postman
 - React
-- Next.js
-- Shadcn UI 
+- Firebase
+- Shadcn UI
 
 ## Education & Learning Journey
 
 ### 🎓 Web Development Bootcamp
+
 - **Institution:** Code Academy
-- **Completion:** [March, 2024] 
+- **Completion:** [March, 2024]
 
 ### 📚 Upcoming Studies: Bachelor of Science in Business Informatics
-- **University:** HTW Berlin (Hochschule für Technik und Wirtschaft Berlin)
-- **Start Date:** [April, 2024] 
 
-
-
-
-
-
+- **University:** [HTW Berlin](https://www.htw-berlin.de/en/) (Hochschule für Technik und Wirtschaft Berlin)
+- **Start Date:** [April, 2024]
 
 <!---
 svenjadunger/svenjadunger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
