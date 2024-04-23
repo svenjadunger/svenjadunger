@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm on my way to becoming a web developer, almost done with a web development bootcamp. Soon, I'll start studying Business Informatics to learn more about how technology and business work together.
+I recently completed a web development bootcamp, an enriching experience that provided hands-on learning and a deep dive into coding practices. Now, I am studying Business Informatics to understand how technology and business work together.
 
 ## Languages
 
