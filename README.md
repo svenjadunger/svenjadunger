@@ -2,7 +2,7 @@
 
 ## About Me
 
-I recently completed a web development bootcamp, an enriching experience that provided hands-on learning and a deep dive into coding practices. Now, I am studying Business Informatics to understand how technology and business work together.
+As a Computational Linguistics student, I'm combining my passion for languages with my fascination for technology. I'm developing skills to create AI-driven language solutions, merging my love for communication and coding.
 
 ## Languages
 
@@ -13,34 +13,16 @@ I recently completed a web development bootcamp, an enriching experience that pr
 
 I love learning new languages as they enable me to communicate with a more diverse group of people and understand different cultures on a deeper level.
 
-## Technical Skills
-
-![Technologies](https://camo.githubusercontent.com/ada16063301697386ad975774aed3d2b0f4647ef2cc76fc0d4c43039731c29c5/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6769742c6769746875622c7673636f64652c6373732c68746d6c2c6a732c74732c6e65746c6966792c706f73746d616e2c72656163742c6e6578746a73)
-
-- Git
-- GitHub
-- VSCode
-- CSS
-- HTML
-- JavaScript (JS)
-- TypeScript (TS)
-- Netlify
-- Postman
-- React
-- Firebase
-- Shadcn UI
-
-## Education & Learning Journey
 
 ### 🎓 Web Development Bootcamp
 
 - **Institution:** [Code Academy](https://www.codeacademyberlin.com/)
 - **Completion:** [March, 2024]
 
-### 📚 Upcoming Studies: Bachelor of Science in Business Informatics
+### 📚 Upcoming Studies: Bachelor of Science Computational Linguistics
 
-- **University:** [HTW Berlin](https://www.htw-berlin.de/en/) (Hochschule für Technik und Wirtschaft Berlin)
-- **Start Date:** [April, 2024]
+- **University:** [University of Potsdam]
+- **Start Date:** [October, 2024]
 
 <!---
 svenjadunger/svenjadunger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
