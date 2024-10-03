@@ -14,6 +14,8 @@ As a Computational Linguistics student, I'm combining my passion for languages w
 I love learning new languages as they enable me to communicate with a more diverse group of people and understand different cultures on a deeper level.
 
 
+## Education
+
 ### 🎓 Web Development Bootcamp
 
 - **Institution:** [Code Academy](https://www.codeacademyberlin.com/)
