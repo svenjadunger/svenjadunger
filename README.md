@@ -21,10 +21,9 @@ I love learning new languages as they enable me to communicate with a more diver
 - **Institution:** [Code Academy](https://www.codeacademyberlin.com/)
 - **Completion:** [March, 2024]
 
-### 📚 Upcoming Studies: Bachelor of Science Computational Linguistics
+### 📚 Current Studies: Bachelor of Science Computational Linguistics
 
 - **University:** [University of Potsdam]
-- **Start Date:** [October, 2024]
 
 <!---
 svenjadunger/svenjadunger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
