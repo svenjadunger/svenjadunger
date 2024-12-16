@@ -4,16 +4,6 @@
 
 As a Computational Linguistics student, I'm combining my passion for languages with my fascination for technology. I'm developing skills to create AI-driven language solutions, merging my love for communication and coding.
 
-## Languages
-
-- 🇩🇪 **German:** Native speaker
-- 🇬🇧 **English:** Fluent
-- 🇪🇸 **Spanish:** Currently learning
-- 🇦🇪 **Arabic:** Currently learning
-
-I love learning new languages as they enable me to communicate with a more diverse group of people and understand different cultures on a deeper level.
-
-
 ## Education
 
 ### 🎓 Web Development Bootcamp
